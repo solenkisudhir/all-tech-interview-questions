@@ -1,4 +1,6 @@
 [MS Flow Actions]( https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/sharepoint)
+</br>
+<a href="https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/sharepoint" target="_blank">MS Actions</a>
 
 Power Automate is a powerful tool for automating workflows across different apps and services. Here are some common actions you can perform with Power Automate, along with brief descriptions:
 
