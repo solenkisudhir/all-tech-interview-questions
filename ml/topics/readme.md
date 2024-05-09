@@ -1,3 +1,5 @@
+https://urltomarkdown.com/
+
 https://www.datacamp.com/tutorial/converting-speech-to-text-with-the-openAI-whisper-API
 https://www.datacamp.com/tutorial/the-cross-entropy-loss-function-in-machine-learning
 https://www.datacamp.com/blog/understanding-and-mitigating-bias-in-large-language-models-llms
