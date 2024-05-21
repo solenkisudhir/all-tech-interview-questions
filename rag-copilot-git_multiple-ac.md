@@ -1,5 +1,9 @@
 Project Path : PS C:\Users\sudhir.kumar\TeamsApps\copilot-openai\src\indexers> python .\setup.py
 =============================================================
+Building your custom copilot on Teams with the Teams AI Library
+[https://www.youtube.com/watch?v=sx-dPCXKXBk&t=734s](https://www.youtube.com/watch?v=sx-dPCXKXBk&t=734s)
+
+
 https://github.com/aycabas
 https://www.youtube.com/watch?v=OZ6qNiuGo1Q
 
