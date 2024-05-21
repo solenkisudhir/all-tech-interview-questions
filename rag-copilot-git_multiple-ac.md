@@ -46,6 +46,8 @@ https://www.youtube.com/watch?v=OZ6qNiuGo1Q
 
 https://www.youtube.com/results?search_query=azure+openai+service+with+teams+copilot
 
+Build your own custom copilot with Teams Toolkit (Agent)
+[https://www.youtube.com/watch?v=jB6-rgGxtr0](https://www.youtube.com/watch?v=jB6-rgGxtr0)
 
 Stream LLMs with LangChain + Streamlit | Tutorial
 https://www.youtube.com/watch?v=zKGeRWjJlTU
@@ -146,4 +148,5 @@ https://github.com/solenkisudhir/all-links/tree/master/rag-copilot
 
 https://github.com/solenkisudhir/all-tech-interview-questions/blob/master/ml/topics/readme.md
 ======================================================================
-
+Teams Toolkit AI Library
+[https://learn.microsoft.com/en-us/microsoftteams/platform/bots/how-to/teams%20conversational%20ai/teams-conversation-ai-overview?wt.mc_id=slidescontent_22582_webinar_reactor](https://learn.microsoft.com/en-us/microsoftteams/platform/bots/how-to/teams%20conversational%20ai/teams-conversation-ai-overview?wt.mc_id=slidescontent_22582_webinar_reactor)
