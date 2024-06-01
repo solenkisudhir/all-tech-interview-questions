@@ -6,8 +6,6 @@ ML in the Job Industry
 
 If you’re interested in pursuing a career in machine learning, you may be wondering about the salary and career options available to you. Machine learning professionals are in **high demand** and can earn **competitive salaries**. According to Glassdoor, the average base pay for a machine learning engineer in the United States is around **$114,000 per year**, with some earning well over **$150,000 per year**. The field also offers a variety of career paths, including roles such as **Data Scientist**, **Machine Learning Engineer**, and **AI researcher**.
 
-![](https://media.geeksforgeeks.org/wp-content/uploads/20230505175603/100-Days-of-Machine-Learning.webp)
-
 When it comes to finding a job in machine learning, some companies are more actively hiring than others. Some of the top companies in this field include **Google, Microsoft, Amazon, IBM,** and **Facebook**. These companies are known for their innovative use of machine learning and AI and offer exciting opportunities for those looking to advance their careers.
 
 Whether you’re just starting to explore machine learning or you’re already well-versed in the subject, there are many resources available to help you learn and grow in this exciting field. This guide is intended to serve as a roadmap for your journey, providing an overview of the basics and pointing you in the direction of more advanced topics and resources.
