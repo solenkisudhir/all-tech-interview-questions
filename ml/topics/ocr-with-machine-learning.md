@@ -1,5 +1,4 @@
 # OCR with Machine Learning 
-![OCR with Machine Learning](https://static.javatpoint.com/tutorial/machine-learning/images/ocr-with-machine-learning.png)
 
 Optical Character Recognition(OCR) is a process run by OCR software. The software will open a digital image, e.g., a tiff file containing full-text characters, and then attempt to read and translate the characters into recognizable full text and save them as a full-text file. This is a quick process that enables the automated conversion of millions of images into full-text files that can then be searched by word or character. This is a very useful and cost-efficient process for large-scale digitization projects for text-based materials, including books, journals, and newspapers. There are several OCR software packages on the market but a popular package for older material or that in languages other than English is Abbyy Finereader. This is currently being used by several newspaper digitization projects internationally.
 

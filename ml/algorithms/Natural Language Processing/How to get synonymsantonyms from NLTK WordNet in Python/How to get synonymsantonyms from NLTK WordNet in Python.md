@@ -2,7 +2,7 @@
 How to get synonyms/antonyms from NLTK WordNet in Python?
 ---------------------------------------------------------
 
-Last Updated : 22 Oct, 2017
+
 
 WordNet is a large lexical database of English. Nouns, verbs, adjectives and adverbs are grouped into sets of cognitive synonyms (synsets), each expressing a distinct concept. Synsets are interlinked by means of conceptual-semantic and lexical relations.  
 **WordNet’s structure makes it a useful tool for computational linguistics and natural language processing.**
